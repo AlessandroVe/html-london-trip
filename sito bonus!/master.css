@@ -1,0 +1,48 @@
+*{
+    margin:auto;
+    box-sizing: border-box;
+}
+header{
+    border: 1px solid black;
+    height: 300px;
+    width: 100vw;
+    background-image: url("https://www.omio.it/gcs-proxy/static_content_repo/web/content/rest/hero/flexible_page-dw.jpg" );
+    background-size: cover;
+    position: absolute;
+}
+
+.testclass{
+    width: 1168px;
+    height: 400px;
+    border: 1px solid black;
+}
+.testclass2{
+    width: 1168px;
+    height: 700px;
+    border: 1px solid black;
+}
+.testclass3{
+    width: 800px;
+    height: 700px;
+    border: 1px solid black;
+}
+#headerdiv>select{
+    position: relative;
+    bottom: 15px;
+    left: 30px;
+}
+#headerdiv>img{
+    width: 140px;
+    height: 44px;
+}
+#headerdiv{
+    padding-top: 1%;
+    width: 1168px;
+    height: 400px;
+    border: 1px solid black;
+}
+#sponsor{
+    height: 300px;
+    border: 1px solid black;
+
+}
